@@ -1,5 +1,10 @@
-.html-logo {
-  position: absolute;
-  width: auto;
-  height: 100px;
+body {
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.05);
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+  background-color: white;
 }
