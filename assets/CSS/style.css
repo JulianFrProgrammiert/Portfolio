@@ -14,7 +14,7 @@ ul {
   list-style-type: none;
 }
 
-/* ANCHOR specific */
+/* ANCHOR class*/
 
 .logo {
   height: 90px;
@@ -45,5 +45,12 @@ ul {
 .werbinich-img {
   height: 400px;
   position: relative;
-  align-items: end;
+  left: 750px;
+  bottom: 200px;
+  border-radius: 500px;
+}
+
+#Webentwicklung {
+  position: relative;
+  bottom: 400px;
 }
